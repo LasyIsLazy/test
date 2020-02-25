@@ -30,6 +30,11 @@ body {
   height: 100%;
   overflow: hidden;
 }
+.left-in-in {
+  width: 34px;
+  height: 34px;
+  transform: scale(2.14706) translate(0px, 0px);
+}
 .right {
   height: 100%;
   padding: 0 0.13rem 0 0.1rem;
