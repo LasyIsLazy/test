@@ -1,0 +1,30 @@
+html,
+body {
+  font-size: 222.225px;
+}
+.text-container {
+  font-size: 0.17rem;
+  width: fit-content;
+  height: 0.33rem;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 0.33rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.left {
+  border-radius: 100%;
+  overflow: hidden;
+  width: 0.31rem;
+  height: 0.31rem;
+  margin: 0.01rem;
+  box-sizing: border-box;
+  background-color: aqua;
+}
+.right {
+  height: 100%;
+  padding: 0 0.13rem 0 0.1rem;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+}
